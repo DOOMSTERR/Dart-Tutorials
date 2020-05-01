@@ -10,3 +10,17 @@ Learn Dart Programming, its basics and Fundamentals from scratch.
 
     * Data Types and Variables
     * String, Literals and String Interpolation
+    * Define constants using "final" and "const" keywords
+
+3) Control Flow Statements
+
+    * IF ELSE
+    * Conditional Expressions
+    * Ternary Operator
+
+4) Loop Control Statements
+
+    * What are Iterators?
+    * FOR Loop and how it works
+    * WHILE Loop
+    * DO WHILE Loop
